@@ -35,6 +35,7 @@ public class AepFactsDatabase {
         // student 1 add biog above this comment
 
         // student 2 add biog after this comment
+        data.put("flaviu",  miniBiog("Flaviu", "no profile"));
         // student 2 add biog above this comment
         
         // student 3 add biog after this comment
