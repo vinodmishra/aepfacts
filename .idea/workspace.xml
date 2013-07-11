@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/develogical/QueryProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/develogical/QueryProcessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-    </list>
+    <list default="true" id="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" name="Default" comment="" />
     <ignored path="aepfacts.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" time="1373550490136" ignored="false" />
@@ -108,7 +104,7 @@
       <file leaf-file-name="QueryProcessor.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/develogical/QueryProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="181" selection-end="181" vertical-scroll-proportion="0.20761245">
+            <state line="14" column="20" selection-start="276" selection-end="276" vertical-scroll-proportion="0.3633218">
               <folding />
             </state>
           </provider>
@@ -651,7 +647,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/develogical/QueryProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="181" selection-end="181" vertical-scroll-proportion="0.20761245">
+        <state line="14" column="20" selection-start="276" selection-end="276" vertical-scroll-proportion="0.3633218">
           <folding />
         </state>
       </provider>
