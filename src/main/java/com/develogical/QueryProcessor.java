@@ -6,7 +6,9 @@ public class QueryProcessor {
         if (query.contains("hi")) {
             return "hello";
         }
-        return "";
-    }
+        if (query.contains("name")) {
+            return "Vinod";
+        }
+        return "";    }
 
 }
