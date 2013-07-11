@@ -53,7 +53,7 @@ public class WebServer {
     }
 
     public WebServer() throws Exception {
-        Server server = new Server(Interger.valueOf(System.getenv("PORT")));
+        Server server = new Server(Integer.valueOf(System.getenv("PORT")));
         ServletContextHandler context = new ServletContextHandler(ServletContextHandler.SESSIONS);
         context.setContextPath("/");
         server.setHandler(context);
